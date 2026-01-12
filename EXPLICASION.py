@@ -23,3 +23,22 @@ from flask import Flask  """# de flask, solo tráeme Flask"""
 
 #import = tráeme toda la caja de herramientas
 #from X import Y = de esa caja, solo tráeme el martillo"""
+
+def
+
+"""Q es: Significa "definir" o "define". Es pa crear tus propias funciones (como recetas q puedes usar después)."""
+
+
+def saludar():
+    print("hola parcero")
+```
+
+"Es como escribir una receta:"
+```
+def hacer_arepas():
+    - agarra maíz
+    - muélelo
+    - haz bolitas
+    - cocínalas
+
+"Después solo dices hacer_arepas() y Python hace todo eso"
