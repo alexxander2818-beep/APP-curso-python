@@ -2,10 +2,19 @@ import flask
 import bcrypt
 from flask import request
 from rutas.cliente.routes_cliente import  mensage_login
-import NumPy
-
-
 import numpy as np
+from rutas.servicios.comprar import comprar_arros, trabajar_mañana
+
+
+
+
+
+
+
+
+
+
+
 a = np.array([3, 2, 1]) 
 b = np.array([4, 5, 6])
 suma_vectores = a + b
